@@ -18,3 +18,8 @@ Start exporting playlist Diffusion - lun 16 mar 2026 22:12:01 CET
 ✅ Export créé : /home/salon/Documents/scripts/exports/playlist-2026-03-16.txt
 ✅ Email envoyé à : raphcolson@gmail.com
 ✅ Export créé : /home/salon/Documents/scripts/exports/playlist-2026-03-16.txt
+Start exporting playlist Diffusion - lun 16 mar 2026 22:13:01 CET
+[dotenv@17.3.1] injecting env (16) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+✅ Export créé : /home/salon/Documents/scripts/exports/playlist-2026-03-16.txt
+✅ Email envoyé à : raphcolson@gmail.com
+❌ Erreur : o is not defined
