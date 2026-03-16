@@ -195,9 +195,7 @@ async function main() {
   });
 
   console.log(`✅ Export créé : ${outputPath}`);
-  console.log(`✅ Email envoyé à : ${MAIL_TO}`);
-
-  console.log(`✅ Export créé : ${outputPath}`);
+  console.log(`✅ Email envoyé à : ${MAIL_TO}`);o
 }
 
 main().catch(err => {
